@@ -2,7 +2,7 @@
   "name": "saucy-dark",
   "displayName": "Saucy Dark",
   "description": "Beautiful dark extension that's easy on your eyes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dasmain",
   "engines": {
     "vscode": "^1.80.0"
