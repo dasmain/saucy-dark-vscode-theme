@@ -3,7 +3,7 @@
   "displayName": "Saucy Dark",
   "description": "Beautiful dark extension that's easy on your eyes",
   "version": "0.0.1",
-  "publisher": "dasmain", 
+  "publisher": "dasmain",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/dasmain/saucy-dark-vscode-theme.git"
   },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
