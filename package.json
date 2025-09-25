@@ -1,0 +1,21 @@
+{
+  "name": "saucy-dark",
+  "displayName": "Saucy Dark",
+  "description": "Beautiful dark extension that's easy on your eyes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saucy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saucy Dark-color-theme.json"
+      }
+    ]
+  }
+}
