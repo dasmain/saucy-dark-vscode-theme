@@ -15,6 +15,7 @@
     "url": "https://github.com/dasmain/saucy-dark-vscode-theme.git"
   },
   "license": "MIT",
+  "icon": "saucy-dark.png",
   "contributes": {
     "themes": [
       {
